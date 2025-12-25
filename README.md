@@ -1,5 +1,6 @@
 # Grid Clash - Multiplayer Network Game
 
+
 **Grid Clash** is a real-time, competitive multiplayer game designed to demonstrate custom application-layer protocols over UDP. Players race to claim cells on a shared grid, with the server maintaining the authoritative game state to ensure consistency and fairness.
 
 This project was developed for a Computer Networking course to explore challenges like latency, packet loss, and state synchronization.
